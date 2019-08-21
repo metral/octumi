@@ -1,0 +1,12 @@
+{
+    "name": "octumi",
+    "devDependencies": {
+        "typescript": "^3.0.0",
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^1.0.0-beta",
+        "@pulumi/kubernetes": "^1.0.0-beta",
+        "@pulumi/eks": "latest"
+    }
+}

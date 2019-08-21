@@ -1,0 +1,3 @@
+name: octumi
+description: Deploys an EKS cluster, a workload, and VMware Octant.
+runtime: nodejs
